@@ -43,9 +43,9 @@ Derzeit suche ich aktiv nach einer Position als Junior Web Developer, mit Schwer
 
 📫 So Erreichen Sie Mich:
 --------------------------------
-E-Mail: balcibaris@outlook.de
+E-Mail: turkyilmaz.brkn@gmail.com
 
-LinkedIn: linkedin.com/in/barisbalciweb
+LinkedIn: https://www.linkedin.com/in/berkan-t%C3%BCrky%C4%B1lmaz-7a2419229
 
 Zögern Sie nicht, sich bei mir zu melden! 😊
 
