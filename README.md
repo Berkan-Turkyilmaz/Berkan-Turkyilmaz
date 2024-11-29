@@ -8,7 +8,7 @@ Frontend: React.js, JavaScript (ES6+), HTML5, CSS, Tailwind
 
 Backend: Node.js, Express.js, MongoDB (Mongoose), MySQL, RESTful APIs
 
-State Management/Data Transmission: zustand, GlobalContext, React Query
+Zustandsverwaltung/Datenübertragung: zustand, GlobalContext, React Query
 
 Tools: Git, GitHub
 
