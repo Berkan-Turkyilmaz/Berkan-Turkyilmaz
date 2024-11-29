@@ -2,7 +2,7 @@
 --------------------------------
 Ich habe kürzlich einen intensiven Web Developer-Kurs über 5 Monate abgeschlossen, in dem ich mich auf MERN-Stack-Technologien konzentriert habe. Während meiner Ausbildung habe ich praktische Erfahrungen in der Frontend- und Backend-Entwicklung gesammelt und mit modernen Tools und Frameworks gearbeitet.
 
-💻 Fähigkeiten:
+💻 Fähigkeiten
 --------------------------------
 Frontend: React.js, JavaScript (ES6+), HTML5, CSS, Tailwind
 
@@ -12,7 +12,7 @@ Zustandsverwaltung/Datenübertragung: zustand, GlobalContext, React Query
 
 Tools: Git, GitHub
 
-🔧 Wichtige Projekte:
+🔧 Wichtige Projekte
 --------------------------------
 E-Mail-Verifizierung, Passwort-Reset & Willkommens-E-Mails
 --------------------------------
@@ -37,11 +37,11 @@ State-Management: GlobalContext
 
 Eine einfache E-Commerce-Plattform, die es Nutzern ermöglicht, Produkte anzuzeigen, Produkte zu aktualisieren, zu löschen oder hinzuzufügen und Produktdetails zu sehen.
 
-🔍 Aktuell auf der Suche nach:
+🔍 Aktuell auf der Suche nach
 --------------------------------
 Derzeit suche ich aktiv nach einer Position als Junior Web Developer, mit Schwerpunkt auf Frontend, Backend oder Full-Stack-Entwicklung.
 
-📫 So Erreichen Sie Mich:
+📫 So Erreichen Sie Mich
 --------------------------------
 E-Mail: turkyilmaz.brkn@gmail.com
 
@@ -58,7 +58,7 @@ Zögern Sie nicht, sich bei mir zu melden! 😊
 --------------------------------
 I have recently completed a 5-month intensive Web Developer course, where I focused on MERN stack technologies. During my studies, I gained hands-on experience in both frontend and backend development, working with modern tools and frameworks.
 
-💻 Skills:
+💻 Skills
 --------------------------------
 Frontend: React.js, JavaScript (ES6+), HTML5, CSS, Tailwind
 
@@ -69,7 +69,7 @@ Tools: Git, GitHub,
 State Management/Data Transmission: zustand, GlobalContext, React Query
 
 
-🔧 Key Projects:
+🔧 Key Projects
 --------------------------------
 E-Mail Verification, Password Reset & Welcome Emails
 --------------------------------
@@ -95,12 +95,12 @@ State Management: GlobalContext
 
 A simple e-commerce platform that allows users to view products, manage product updates, deletions, and additions, and see product details.
 
-🔍 Currently Seeking:
+🔍 Currently Seeking
 --------------------------------
 I am actively pursuing a Junior Web Developer role, specializing in frontend, backend, or full-stack development.
 
 
-📫 How to Reach Me:
+📫 How to Reach Me
 --------------------------------
 Email: turkyilmaz.brkn@gmail.com
 
