@@ -21,6 +21,8 @@ Tools: Git, GitHub
 ------------------
 Tech-Stack: MERN (MongoDB, Express.js, React, Node.js)
 
+Responsive Design: Ja
+
 State-Management: Zustand
 
 Link: https://e-mail-verification-password-reset-bx9d.onrender.com/
@@ -31,6 +33,8 @@ Dieses Projekt automatisiert den E-Mail-Workflow, einschließlich E-Mail-Verifiz
 ------------------
 
 Tech-Stack: MERN (MongoDB, Express.js, React, Node.js)
+
+Responsive Design: Nein
 
 State-Management: GlobalContext
 
@@ -43,7 +47,11 @@ Der Klon enthält eine Homepage, eine Profilseite und eine Benachrichtigungsseit
 
 Tech-Stack: MERN (MongoDB, Express.js, React, Node.js)
 
+Responsive Design: Nein
+
 State-Management: GlobalContext
+
+Link: https://e-commerce-basic-atd3.onrender.com/
 
 Eine einfache E-Commerce-Plattform, die es Nutzern ermöglicht, Produkte anzuzeigen, Produkte zu aktualisieren, zu löschen oder hinzuzufügen und Produktdetails zu sehen.
 
@@ -85,6 +93,8 @@ State Management/Data Transmission: zustand, GlobalContext, React Query
 
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
 
+Responsive Design: Yes
+
 State Management: Zustand
 
 Link: https://e-mail-verification-password-reset-bx9d.onrender.com/
@@ -95,6 +105,8 @@ This project automates the email workflow, including email verification, welcome
 ------------------
 
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
+
+Responsive Design: No
 
 State Management: GlobalContext
 
@@ -107,7 +119,11 @@ The clone features a homepage, profile page, and notification page with key func
 
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
 
+Responsive Design: No
+
 State Management: GlobalContext
+
+Link: https://e-commerce-basic-atd3.onrender.com/
 
 A simple e-commerce platform that allows users to view products, manage product updates, deletions, and additions, and see product details.
 
