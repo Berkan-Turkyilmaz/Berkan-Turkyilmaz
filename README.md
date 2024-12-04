@@ -16,11 +16,14 @@ Tools: Git, GitHub
 🔧 Wichtige Projekte
 ------------------
 
-📧 E-Mail-Verifizierung, Passwort-Reset & Willkommens-E-Mails
 
+📧 E-Mail-Verifizierung, Passwort-Reset & Willkommens-E-Mails
+------------------
 Tech-Stack: MERN (MongoDB, Express.js, React, Node.js)
 
 State-Management: Zustand
+
+Link: https://e-mail-verification-password-reset-bx9d.onrender.com/
 
 Dieses Projekt automatisiert den E-Mail-Workflow, einschließlich E-Mail-Verifizierung, Willkommensnachrichten und Passwort-Reset-Funktionalitäten.
 
@@ -81,6 +84,8 @@ State Management/Data Transmission: zustand, GlobalContext, React Query
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
 
 State Management: Zustand
+
+Link: https://e-mail-verification-password-reset-bx9d.onrender.com/
 
 This project automates the email workflow, including email verification, welcome messages, and password reset functionality.
 
